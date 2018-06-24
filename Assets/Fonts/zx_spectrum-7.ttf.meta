@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 14a5328d94509054aad33dcc89b7066f
+timeCreated: 1485011929
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZX Spectrum-7
+  fontNames:
+  - ZX Spectrum-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a2cc423e97737c4b9a9695e43be4922
+timeCreated: 1485002967
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Highscore Hero
+  fontNames:
+  - Highscore Hero
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

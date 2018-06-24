@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2e959a4d6aba404cbbe53071f6a2bbb
+timeCreated: 1485012277
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Grafiti
+  fontNames:
+  - Pixel Grafiti
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

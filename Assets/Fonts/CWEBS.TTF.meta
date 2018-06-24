@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: da2099c639bc1e346a1d22156a4be0e5
+timeCreated: 1485012102
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: C Web
+  fontNames:
+  - C Web
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8e6ad7f459072b4f8f95e070cdc8ab8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
